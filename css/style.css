@@ -1,0 +1,31 @@
+.cards {
+    border: 1px solid lightblue;
+}
+
+h2 {
+    border: 1px dotted lightgray;
+    text-align: center;
+}
+
+body {
+    display: flex;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.part2 p {
+    font-weight: bold;
+}
+
+.part3 p {
+    font-weight: bold;
+}
+
+.cards h3 {
+    color: yellow;
+    background-color: darkgray;
+}
